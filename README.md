@@ -23,3 +23,6 @@ References:
 > Category: Gene expression, Isoform expression quantification.  
 > Sample selection: primary tumor specimens (TCGA barcode: 01) and TCGA barcode ‘‘03” for LAML.  
 > File content: transcript_id (encoded by UCSC ID), normalized_count (RSEM normalization method, normalized by transcript length)  
+
+## Notion for more information  
+https://www.notion.so/TCGA-Survival-Analysis-in-Transcript-Level-Feb-2023-20f8a793d25d4a09bdb3e938db22c067?pvs=4  
